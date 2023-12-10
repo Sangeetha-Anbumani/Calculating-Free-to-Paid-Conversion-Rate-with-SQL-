@@ -1,2 +1,3 @@
 # Calculating-Free-to-Paid-Conversion-Rate
-To calculate values for three attributes(conversion_rate, av_reg_watch, av_watch_purch) from the existing attributes available in 3 different tables in a database
+
+This project involves the calculation of three key attributes – conversion_rate, av_reg_watch, and av_watch_purch – derived from existing attributes available in three different tables within a database. The primary objective is to analyze and understand the conversion rate of users transitioning from free to paid services.
